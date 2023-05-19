@@ -1,4 +1,4 @@
-## Simple Calculator using javascript
+## Simple calculator using javascript
 
 This is a simple calculator program that performs basic arithmetic calculations.
 
@@ -33,5 +33,5 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 3. Push to the branch: git push origin new-feature
 
-4. Create a pull request
+4. Create a pull request. 
 
