@@ -1,4 +1,4 @@
-## Simple calculator using javascript
+## Simple Calculator using javascript
 
 This is a simple calculator program that performs basic arithmetic calculations.
 
